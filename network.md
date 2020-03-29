@@ -1,58 +1,55 @@
-#EXTM3U
-#EXTINF:-1,БОЕВИК TV
-http://v2.catcast.me/content/37493/index.m3u8
+#EXTINF:-1,Беларусь 1
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/belarus1-by.m3u8
+#EXTINF:-1,Беларусь 2
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/belarus2.m3u8
+#EXTINF:-1,Беларусь 3
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/belarus3-by.m3u8
 #EXTINF:-1,Беларусь 4 
 http://95.46.208.8:26258/belarus4
 #EXTINF:0,Варяг ТВ
 http://87.252.229.252:8081/varag
 #EXTINF:-1,ГАЛ TV
 http://clients.apsny.camera:80/tv_gal_tv_hd_online/index.m3u8
-#EXTINF:-1,Dom Kino
-http://195.18.23.20:8000/play/23/index.m3u8
-#EXTINF:-1,Дом Кино Премиум HD
-http://streamer-1.obozrenie.tv/18/bbc12fc7bc6e82840881f38e/162/stream.m3u8
 #EXTINF:-1,Домашний (РФ)
 http://rt-ct-tula-htlive-lb.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
 #EXTINF:-1,Звезда
 http://streamer-1.obozrenie.tv/18/bbc12fc7bc6e82840881f38e/17/stream.m3u8
-#EXTINF:-1,Победа
-http://ott-cdn.ucom.am/s47/index.m3u8
+#EXTINF:-1,Звезда +2
+http://rt-vlg-orb-htlive-lb.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8?version=2&offset=-1
+#EXTINF:-1,Звезда +4
+http://rt-sib-nsk-htlive-lb.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8?version=2&offset=-1
+#EXTINF:-1,Звезда +7
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,Июнь ТВ (Междуреченск) +4
 http://hls.m-ten.ru:8080/hls/21/live.m3u8
 #EXTINF:0,Кино UHD
 http://188.35.9.26:16050/udp/238.0.16.1:69000
-#EXTINF:-1,HD КИНО
-https://hls.goodgame.ru/hls/12949_720.m3u8?seg-user-4pda-denms-ru-v1-a1.m3u
-#EXTINF:-1,kino
-http://91.103.248.82:81/play/a002
+#EXTINF:-1,Кино ТВ
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/kino-tv.m3u8
 #EXTINF:-1,Кинозал 11 (Film TV)
 http://195.9.195.3:8080/hls/165462.m3u8
-#EXTINF:-1,Киноман
-http://ott-cdn.ucom.am/s94/index.m3u8
-#EXTINF:0,Киномикс
-http://86.57.225.245:7015/play/a005
-#EXTINF:-1,Кино Премиум HD
-http://188.35.9.11:2017
-#EXTINF:0,Киносемья
-http://86.57.225.245:7015/play/a00p
-#EXTINF:-1,Киносвидание HD
-http://217.25.216.4:8085/udp/238.2.18.14:1234
-#EXTINF:0,Кинохит
-http://86.57.225.245:7015/play/a00o
-#EXTINF:0,Кинохит HD
-http://217.25.216.4:8085/udp/238.2.18.22:1234
-#EXTINF:0,Комедийное.
-http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&p=12326fa256d9bf86
-#EXTINF:-1,Марс-ТВ
-http://v2.catcast.me/content/37033/index.m3u8
+#EXTINF:-1,Кинокомедия
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/kinokomedia.m3u8
+#EXTINF:-1,Киномикс
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/kinomix.m3u8
+#EXTINF:-1,КИНОСВИДАНИЕ
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/kinosvidanije.m3u8
+#EXTINF:-1,Киносемья
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/kinosemja.m3u8
+#EXTINF:-1,Кинохит
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/kinohit.m3u8
+#EXTINF:-1,Кинопоказ
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/kinopokaz.m3u8
 #EXTINF:3300,Мир Сериала
 http://188.35.9.5:10007/stolen/125e/parasite.install
-#EXTINF:0,Мужское кино
-http://86.57.225.245:7015/play/a00r
-#EXTINF:-1,Наш Кинороман HD
-http://streamer-1.obozrenie.tv/18/bbc12fc7bc6e82840881f38e/130/stream.m3u8
+#EXTINF:-1,Мужское кино
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/muzhskoe-kino.m3u8
+#EXTINF:-1 ,Мужское кино -8
+http://178.124.183.5/hls/W7LNWHFGTB/variant.m3u8?version=2&offset=-28800
+#EXTINF:-1,Наш Детектив
+http://nl01.spr24.net/123/mpegts?token=rCEqTFvRhtEvXt
 #EXTINF:-1,Наше новое кино
-http://streamer-1.obozrenie.tv/18/bbc12fc7bc6e82840881f38e/254/stream.m3u8
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/nashe-novoe-kino.m3u8
 #EXTINF:0,Наше ТВ
 http://95.46.208.8:26259/nashe
 #EXTINF:0,Новорocсия ТВ HD
@@ -109,14 +106,18 @@ http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV/variant.m3u8?versi
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/bw2000000/variant.m3u8?version
 #EXTINF:-1,Rodnoe kino
 http://89.106.234.4:80/Rodnoe_kino_34_35.m3u8
-#EXTINF:-1,РОССИЯ 1 HD
-http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1,Родное кино
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/rodnoje_kino.m3u8
 #EXTINF:0,Россия 1 (+6)
 http://tv-online.gtrkchita.ru:8080/hls/r1-chita_360p.m3u8
+#EXTINF:-1,Русский бестселлер
+http://spacetv.in/stream/DVB2D6AE8CU/208.m3u8
+#EXTINF:-1,Русский детектив 
+http://spacetv.in/stream/DVB2D6AE8CU/204.m3u8
+#EXTINF:-1,Русская комедия
+http://spacetv.in/stream/DVB2D6AE8CU/68.m3u8
 #EXTINF:6300,Русский Роман
 http://188.35.9.5:10007/stolen/127k/parasite.install
-#EXTINF:-1,Сити Эдем TV
-http://v2.catcast.me/content/34246/index.m3u8
 #EXTINF:-1,Скиф (Беларусь)
 http://178.172.150.248:2051/skifvit/index.m3u8
 #EXTINF:0,Сочи 43 HD [HD]
@@ -151,6 +152,10 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/bw2000000/variant.m3u8?version=
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,ТВ-3 (HD)
 http://85.112.114.11:8086/udp/233.170.170.79:58631
+#EXTINF:-1,ТВ3 +4
+http://rt-sib-nsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8?version=2&offset=-1
+#EXTINF:-1,ТВ3 +7
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,Победа HD
 http://37.193.6.155:34040/udp/239.1.21.68:1234
 #EXTINF:-1,Film Box
@@ -159,38 +164,44 @@ http://188.35.9.11:21081/udp/154w
 http://stream.tck.tv/hd.m3u8
 #EXTINF:-1,Че
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8
-#EXTINF:0,Че (Север ) +2
-http://tvsever.ru:8080/hls/ach2.m3u8
-#EXTINF:-1,Урфо 24/6 HD
-http://live-urfo24.cdnvideo.ru/urfo24/urfo24.sdp/playlist.m3u8
-#EXTINF:-1,Amedia 1
-http://ott-cdn.ucom.am/s45/index.m3u8
+#EXTINF:-1,Че! +2
+http://rt-ural-ekt-htlive-lb.cdn.ngenix.net/hls/CH_R02_OTT_PERETZ/variant.m3u8?version=2&offset=-1
+#EXTINF:-1,Че! +4
+http://rt-sib-nsk-htlive-lb.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8?version=2&offset=-1
+#EXTINF:-1,A1
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/amedia-1.m3u8
 #EXTINF:0,Amedia 2
 http://sc.id-tv.kz/A2_36_37.m3u8
 #EXTINF:-1,Amedia Hit HD
 http://89.106.234.4:80/amedia_hit_hd_34_35.m3u8
-#EXTINF:-1,Amedia Premium
-http://ott-cdn.ucom.am/s64/index.m3u8
 #EXTINF:-1,FilmBox Arthouse
 http://185.237.188.45:37377/cZR@PppEfb
 #EXTINF:-1,FilmBox Baltic
 http://185.237.188.45:37377/ubj4J71dSW
-#EXTINF:-1,Filmzone
-http://ott-cdn.ucom.am/s48/index.m3u8
-#EXTINF:-1,24/7 Hollywood Movies 11
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:-1,KinoBroadcast 1
-http://v2.catcast.me/content/35525/index.m3u8
-#EXTINF:-1,Кинозал 1 (Марс-ТВ)
-https://autopilot.catcast.me/content/37033/index.m3u8
-#EXTINF:-1,Кинозал 4
-http://v3.catcast.me/contentv2/35525/index.m3u8
 #EXTINF:-1,Кинозал 11 (Film TV)
 http://195.9.195.3:8080/hls/165462.m3u8
-#EXTINF:-1,Hollywood Movies 11
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:-1,Cinema
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/cinema.m3u8
+#EXTINF:-1,Fox
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/fox.m3u8
+#EXTINF:-1,Fox Life
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/fox-life.m3u8
+#EXTINF:-1,Paramount Channel
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/paramount-channel.m3u8
+#EXTINF:-1,Paramount Comedy
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/paramount-comedy.m3u8
+#EXTINF:-1,Sony Channel
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/set.m3u8
+#EXTINF:-1,SONY Sci-Fi
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/sony-sci-fi.m3u8
+#EXTINF:-1,Sony Turbo
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/sony-turbo.m3u8
+#EXTINF:-1,Spike
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/spike.m3u8
 #EXTINF:8400,TV1000
 http://188.35.9.5:10020/stolen/484c/hot.dll
+#EXTINF:-1 ,TV1000 -8
+http://178.124.183.5/hls/6WMZMUEWGN_HLS/variant.m3u8?version=2&offset=-28800
 #EXTINF:0,TV 1000 Action
 http://185.237.188.45:37378/nCg13Rz8Sm
 #EXTINF:0,TV 1000 East
@@ -205,24 +216,20 @@ http://2.92.160.55:4022/udp/233.33.210.15:5050
 http://188.35.9.5:10020/stolen/403x/hot.dll
 #EXTINF:0,ViP Premiere
 http://188.35.9.11:2013
-#EXTINF:-1,Sony Sci-Fi
-http://178.165.68.39:7781/udp/239.2.1.68:1234
-#EXTINF:-1,STR TV
-http://hls.goodgame.ru/hls/130048.m3u8
+#EXTINF:-1,ViP Serial
+http://spacetv.in/stream/DVB2D6AE8CU/311.m3u8
 #EXTINF:-1,Paramount
 http://178.165.68.39:7781/udp/239.2.1.89:1234
 #EXTINF:-1,Беларусь 5
-http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/belarus5.m3u8
 #EXTINF:-1,Матч!ТВ
 http://188.35.9.26:11031/udp/184d
 #EXTINF:-1,Матч!HD (720)
 http://ott-stream.sevstar.net/2095/video.m3u8?token=8330162968
 #EXTINF:-1,Матч!Арена HD
 http://ott-stream.sevstar.net/1836/video.m3u8?token=8330162968
-#EXTINF:-1,Матч!Арена
-http://109.248.69.19:4044/udp/239.195.1.68:1234?deooleg
-#EXTINF:-1,Матч!Игра
-http://109.248.69.19:4044/udp/239.195.1.69:1234?deooleg
+#EXTINF:-1,МАТЧ! Игра
+http://spacetv.in/stream/DVB2D6AE8CU/188.m3u8
 #EXTINF:-1,Матч!Премьер
 http://178.124.182.25:7013/play/a016_a13
 #EXTINF:1800,Матч!Страна
@@ -231,34 +238,60 @@ http://188.35.9.5:10007/stolen/124n/parasite.install
 http://cdn.iptv.monster/play/134/A94E407714F99C3/video.m3u8
 #EXTINF:0,Матч!Футбол 1
 http://188.35.9.11:2025
+#EXTINF:-1,МАТЧ! Футбол 1
+http://spacetv.in/stream/DVB2D6AE8CU/130.m3u8
+#EXTINF:-1,МАТЧ! Футбол 2 
+http://spacetv.in/stream/DVB2D6AE8CU/142.m3u8
+#EXTINF:-1,МАТЧ! Футбол 3
+http://spacetv.in/stream/DVB2D6AE8CU/185.m3u8
+#EXTINF:-1,Футбол 1
+http://s04.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/futbol1-ua.m3u8
+#EXTINF:-1,Футбол 2
+http://s04.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/futbol2-ua.m3u8
+#EXTINF:-1,Футбол 3
+http://s04.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/futbol3-ua.m3u8
+#EXTINF:-1,Футбол 1 (Украина) 
+http://spacetv.in/stream/DVB2D6AE8CU/159.m3u8
+#EXTINF:-1,Футбол 2 (Украина) 
+http://spacetv.in/stream/DVB2D6AE8CU/191.m3u8
+#EXTINF:-1,Футбол 3 (Украина) 
+http://spacetv.in/stream/DVB2D6AE8CU/297.m3u8
+#EXTINF:-1,Спорт 1
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/sport1-ua.m3u8
+#EXTINF:-1,Спорт 2
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/sport2-ua.m3u8
+#EXTINF:-1,XSport
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/xsport.m3u8
 #EXTINF:-1,Eurosport1
 http://31.133.47.1:8800/eurosport
-#EXTINF:-1,Eurosport 1
-http://178.165.68.39:7781/udp/239.2.1.66:1234
+#EXTINF:-1,Eurosport
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/evrosport.m3u8
 #EXTINF:-1,Eurosport 2
 http://31.133.47.1:8800/eurosport_2
 #EXTINF:-1,Eurosport 2
-http://ott.onlineott.tv/tools/m3u/play.php?url=http://cdn.onlineott.tv/Eurosport2&login=Martyn&key=CBxWefH
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/evrosport-2.m3u8
+#EXTINF:-1,Eurosport Gold
+http://spacetv.in/stream/DVB2D6AE8CU/286.m3u8
 #EXTINF:0,Eurosport 4K
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8
-#EXTINF:-1,Football 1
-http://178.165.68.39:7781/udp/239.2.1.58:1234
-#EXTINF:-1,Football 2
-http://178.165.68.39:7781/udp/239.2.1.59:1234
 #EXTINF:0,Пульсар UA
 rtmp://78.154.164.191:19350/Pulsar/forever
 #EXTINF:-1,Animal Planet
 http://78.157.230.19/streaming/animalplanet/364/gpu_tvrecw/playlist.m3u8
-#EXTINF:-1,Investigation Discovery
-http://182.73.122.74:10004/bysid/1114
+#EXTINF:-1,В мире животных
+http://spacetv.in/stream/DVB2D6AE8CU/241.m3u8
 #EXTINF:-1,DISCOVERY HD SHOWCASE
 http://54.38.180.196/play/272/2D6E866C992891C/video.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL HD
-http://217.25.216.4:8085/udp/238.2.16.147:1234
 #EXTINF:-1,ДИАЛОГИ О РЫБАЛКЕ
 http://188.35.9.9:21081/udp/118i
 #EXTINF:-1,ДИКАЯ ОХОТА HD
 http://188.35.9.11:21111/udp/180l
+#EXTINF:-1,Дикая рыбалка HD
+http://spacetv.in/stream/DVB2D6AE8CU/275.m3u8
+#EXTINF:-1,Живая планета
+http://spacetv.in/stream/DVB2D6AE8CU/83.m3u8
+#EXTINF:-1,Живая природа HD 
+http://spacetv.in/stream/DVB2D6AE8CU/225.m3u8
 #EXTINF:-1,History HD
 http://188.35.9.5:10005/stolen/152p/imposter.rar
 #EXTINF:-1,Моя Планета
@@ -269,47 +302,29 @@ http://188.35.9.5:10020/stolen/485v/hot.dll
 http://188.35.9.11:21031/udp/034x
 #EXTINF:-1,Ocean TV
 http://91.192.168.242:9091
+#EXTINF:-1,Охота и рыбалка
+http://spacetv.in/stream/DVB2D6AE8CU/155.m3u8
+#EXTINF:-1,Охотник и рыболов HD
+http://spacetv.in/stream/DVB2D6AE8CU/194.m3u8
 #EXTINF:-1,TRAVEL CHANNEL
 http://188.35.9.11:21031/udp/038m
-#EXTINF:-1,BOLT
-http://178.165.68.39:7781/udp/239.2.1.9:1234
-#EXTINF:-1,ICTV
-http://178.165.68.39:7781/udp/239.2.1.10:1234
 #EXTINF:-1,1+1
 http://188.35.9.11:2001/index.m3u8
 #EXTINF:-1,2+2
 http://188.35.9.11:2031/index.m3u8
-#EXTINF:-1,СТБ
-http://188.35.9.11:2002
-#EXTINF:-1,NOVY CHANNEL
-http://178.165.68.39:7781/udp/239.2.1.13:1234
-#EXTINF:-1,Ukraina
-http://178.165.68.39:7781/udp/239.2.1.14:1234
-#EXTINF:-1,Mega
-http://178.165.68.39:7781/udp/239.2.1.22:1234
-#EXTINF:-1,HTH
-http://178.165.68.39:7781/udp/239.2.1.23:1234
 #EXTINF:-1,Интер
 http://188.35.9.11:2020/index.m3u8
+#EXTINF:-1,ICTV
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/ictv.m3u8
+#EXTINF:-1,СТБ
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/stb.m3u8
+#EXTINF:-1,НТН
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/ntn.m3u8
+#EXTINF:-1,Новый Канал
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/novij-kanal.m3u8
 #EXTINF:0,К1
 http://109.68.40.67/life/k1_3/index.m3u8
-#EXTINF:-1,K2
-http://178.165.68.39:7781/udp/239.2.1.3:1234
-#EXTINF:-1,O-TV Music
-http://178.165.68.39:7781/udp/239.2.1.4:1234
-#EXTINF:-1,ZOOM
-http://178.165.68.39:7781/udp/239.2.1.5:1234
-#EXTINF:-1,M1
-http://178.165.68.39:7781/udp/239.2.1.6:1234
-#EXTINF:-1,M2
-http://178.165.68.39:7781/udp/239.2.1.7:1234
 #EXTINF:-1,BOLT
 http://178.165.68.39:7781/udp/239.2.1.9:1234
-#EXTINF:-1,PIXEL
-http://178.165.68.39:7781/udp/239.2.1.12:1234
-#EXTINF:-1,112 Ukraine
-http://178.165.68.39:7781/udp/239.2.1.15:1234
-#EXTINF:-1,PLUS PLUS
-http://178.165.68.39:7781/udp/239.2.1.16:1234
 #EXTINF:-1,Kvartal TV
 http://178.165.68.39:7781/udp/239.2.1.70:1234
