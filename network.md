@@ -1,9 +1,3 @@
-#EXTINF:-1,Беларусь 1
-http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/belarus1-by.m3u8
-#EXTINF:-1,Беларусь 2
-http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/belarus2.m3u8
-#EXTINF:-1,Беларусь 3
-http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/belarus3-by.m3u8
 #EXTINF:-1,Беларусь 4 
 http://95.46.208.8:26258/belarus4
 #EXTINF:0,Варяг ТВ
